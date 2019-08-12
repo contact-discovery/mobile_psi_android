@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobilePSI</string>
+
+    <string-array name="psi_types">
+        <item>LowMC-OPRF-PSI</item>
+        <item>AES-OPRF-PSI</item>
+        <item>ECNR-OPRF-PSI</item>
+    </string-array>
+</resources>
